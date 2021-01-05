@@ -8,6 +8,9 @@
 
 This program web scrapes listings over a defined interval and sends them to the user via email. This program reduces the hassle of finding the ideal living situation by allowing the user to create a filter to narrow the results.
 
+# Demo
+![](demo.gif)
+
 ### Built With
 
 * Python
