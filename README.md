@@ -17,7 +17,7 @@ This program web scrapes listings over a defined interval and sends them to the 
 ### Prerequisites
 
 1. [Python must be installed](https://www.python.org/downloads/)
-2. User must allow [Less Secure Apps] on Email Account(https://myaccount.google.com/lesssecureapps)
+2. User must allow [Less Secure Apps](https://myaccount.google.com/lesssecureapps) on Email Account
 
 ### Installation
 
