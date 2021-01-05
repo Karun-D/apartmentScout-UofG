@@ -1,5 +1,5 @@
 <!-- PROJECT Title -->
-# Semi-automated Transactions
+# Apartment Scout (UofG)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
