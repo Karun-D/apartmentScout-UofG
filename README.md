@@ -26,11 +26,11 @@ This program web scrapes listings over a defined interval and sends them to the 
    git clone https://github.com/Karun-D/apartmentScout-UofG
    ```
 2. Enter folder
-```sh
+   ```sh
    cd apartmentScout-UofG
    ```
 3. Install requirements
-```sh
+   ```sh
    pip install -r /requirements.txt
    ```
 
