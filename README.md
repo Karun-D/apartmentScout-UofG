@@ -31,7 +31,7 @@ This program web scrapes listings over a defined interval and sends them to the 
    ```
 3. Install requirements
    ```sh
-   pip install -r /requirements.txt
+   pip install -r requirements.txt
    ```
 
 <!-- USAGE EXAMPLES -->
