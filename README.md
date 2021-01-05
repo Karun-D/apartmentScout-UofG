@@ -13,6 +13,7 @@ This program web scrapes listings over a defined interval and sends them to the 
 * Python
 * SQLAlchemy
 * BeautifulSoup4
+* SMTPLIB
 
 ### Prerequisites
 
