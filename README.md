@@ -33,6 +33,7 @@ This program web scrapes listings over a defined interval and sends them to the 
    ```sh
    pip install -r requirements.txt
    ```
+4. Edit email account information and filter values in "program_features.py"
 
 <!-- USAGE EXAMPLES -->
 ## Usage
