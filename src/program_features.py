@@ -4,7 +4,7 @@
 
 # Log-in information for E-mail server
 EMAIL_USER_SEND = 'sa2856304@gmail.com'
-EMAIL_PASS = 'Sample123!'
+# EMAIL_PASS =
 
 # Destination E-mail address
 EMAIL_USER_RECEIVE = EMAIL_USER_SEND
